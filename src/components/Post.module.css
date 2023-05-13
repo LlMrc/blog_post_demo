@@ -1,0 +1,20 @@
+.post{
+ 
+    position: relative;
+    display: inline-block;
+    background: lightblue; 
+    margin: 2rem 1rem;
+    padding: 1rem;
+    border-radius: 18px;
+    animation: animate-in 1s ease-in forwards;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    text-align: start;
+ overflow-wrap: break-word;
+}
+
+.author{
+    font: 1em sans-serif;
+    font-weight: bold;   
+    text-transform: uppercase;
+    text-align: center;
+}
